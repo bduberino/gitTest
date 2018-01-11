@@ -1,1 +1,4 @@
-Hello Git.  Hi there
+Hello Git.  Hi there...
+
+How are you doing
+
